@@ -3,5 +3,5 @@ In this analysis, we performed linear regression to explore the relationship bet
 
 To view the **R** code and detailed instructions, visit:
 
-[See the Code and Instructions](https://innerhaze.github.io/Interactive-Plotly-Visualization-of-Evolutionary-and-Cost-Distances-Using-R-s-Plotly-Package/)
+[See the Code and Instructions](https://innerhaze.github.io/plotly-distance-regression/)
 
